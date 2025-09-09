@@ -1,5 +1,1 @@
-# IBU_Cleaning
-# Python-Cleaning
-# Python-Cleaning
-# Python-Cleaning
-# IBU_Cleaning
+# This project deals with a dataset of beers from all over the country and their attributes. With a lot of missing data I made inferences to fill in null values and organize the data in a more user-friendly format. 
